@@ -23,6 +23,12 @@ The final solution includes both backend data processing and a frontend analytic
 
 ---
 
+## Live Demo
+
+ https://ecommerce-analytics-dashboard-peach.vercel.app/
+
+ ---
+
 # Features
 
 ## Revenue Analytics
