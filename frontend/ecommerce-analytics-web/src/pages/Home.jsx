@@ -18,7 +18,7 @@ function Home() {
           </Link>
 
           <a
-            href="https://github.com"
+            href="https://github.com/anaghamurali04/Ecommerce-analytics-dashboard"
             target="_blank"
             rel="noopener noreferrer"
           >
