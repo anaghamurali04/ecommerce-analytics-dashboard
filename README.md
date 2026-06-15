@@ -29,6 +29,25 @@ The final solution includes both backend data processing and a frontend analytic
 
  ---
 
+ ## Dashboard Preview
+
+ ### Home Page
+ ![Home](screenshots/Home.png)
+
+ ### Revenue Dashboard
+ ![Revenue](screenshots/Revenue.png)
+
+ ### Customers Dashboard
+ ![Customers](screenshots/Customers.png)
+
+ ### Sellers Dashboard
+ ![Sellers](screenshots/Sellers.png)
+
+ ###About Page
+ ![About](screenshots/About.png)
+
+ ---
+
 # Features
 
 ## Revenue Analytics
